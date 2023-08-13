@@ -7,3 +7,5 @@ During the duration of my internship, every project i work on will be documented
 https://github.com/MissTife/sync-internship/blob/main/notebook2db6460257.ipynb
 ###prediction notebook
 https://github.com/MissTife/sync-internship/blob/main/model_built.ipynb
+## 3.Boston's house prediction
+## 4.Sign language recognition
